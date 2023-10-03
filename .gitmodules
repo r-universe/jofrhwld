@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "densityarea"]
+	path = densityarea
+	url = https://github.com/jofrhwld/densityarea
 [submodule "syllabifyr"]
 	path = syllabifyr
 	url = https://github.com/jofrhwld/syllabifyr
