@@ -8,3 +8,6 @@
 [submodule "syllabifyr"]
 	path = syllabifyr
 	url = https://github.com/jofrhwld/syllabifyr
+[submodule "tidynorm"]
+	path = tidynorm
+	url = https://github.com/jofrhwld/tidynorm
